@@ -1,0 +1,3 @@
+harshit 'salary is 2000
+bhargav 'salary is 3000
+jeel 'salary is 2340
